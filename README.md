@@ -8,11 +8,11 @@ El propósito de esta actividad es que los estudiantes busquen, seleccionen y an
 
 ## Estructura del Proyecto
 ```
-📂 Regresion_Simple
+📂 Regresion_Lineal_Simple
 │── 📂 data  # Datos generados para las pruebas
 │── 📂 results  # Resultados y análisis comparativo
 │── 📄 README.md  # Documentación del proyecto
-│── 📄 Regresion_Simpla.ipynb  # Implementación en Jupyter Notebook
+│── 📄 Regresion_Lineal_Simple.ipynb  # Implementación en Jupyter Notebook
 ```
 
 ## Instalación y Requisitos
@@ -27,17 +27,17 @@ Para ejecutar el proyecto, necesitas tener instalado:
 ## Uso
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/Jair-Artreaga/Regresion_Simple.git
+   git clone https://github.com/Jair-Artreaga/Regresion_Lineal_Simple.git
    ```
 2. Accede al directorio del proyecto:
    ```bash
-   cd Regresion_Simple
+   cd Regresion_Lineal_Simple
    ```
 3. Ejecuta Jupyter Notebook:
    ```bash
    jupyter notebook
    ```
-4. Abre el archivo `Regresion_Simple` y ejecuta las celdas para ver los resultados.
+4. Abre el archivo `Regresion_Lineal_Simple` y ejecuta las celdas para ver los resultados.
 
 ## Pruebas de Rendimiento
 El dataset de California Housing se encuentra disponible en la librería scikit-learn y contiene 20,640 instancias con 8 características, lo que lo hace adecuado para aplicar modelos de regresión lineal.
