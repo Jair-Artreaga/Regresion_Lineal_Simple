@@ -1,7 +1,7 @@
 # Implementación y Evaluación de Algoritmos de Ordenamiento en Python
 
 ## Descripción
-Este proyecto implementa y evalúa dos métodos de ordenamiento en Python: **Burbuja** y **Quicksort**, utilizando Jupyter Notebook. Se analizan sus rendimientos en conjuntos de datos de diferentes tamaños y se documentan los resultados para comprender la eficiencia de cada algoritmo. Además, se fomenta el uso de GitHub como herramienta para la gestión y documentación de proyectos.
+En esta práctica, se utilizará el dataset de California Housing, que contiene información sobre diferentes características de viviendas en California, como el ingreso medio de los habitantes, la edad de las viviendas, la proximidad a centros comerciales y la población de cada área. El objetivo es predecir el precio medio de las viviendas utilizando estos atributos. Este tipo de problema se considera una tarea de regresión, ya que la variable a predecir (el precio de las viviendas) es un valor continuo.
 
 ## Objetivos
 El propósito de esta actividad es que los estudiantes busquen, seleccionen y analicen un conjunto de datos en Kaggle u otra fuente confiable para aplicar regresión lineal simple y predecir una variable continua con base en una única característica independiente. Además, deberán presentar los resultados y conclusiones obtenidas, explicando la relación entre las variables y la interpretación del modelo.
